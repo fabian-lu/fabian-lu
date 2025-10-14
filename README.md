@@ -7,7 +7,7 @@ Currently, I’m exploring the intersection of **interpretability and generative
 ---
 
 ### 🧩 Tech Stack
-**Languages:** Python, R, SQL, C, MATLAB, Java , PHP, JavaScript/TypeScript
+**Languages:** Python, R, SQL, C, MATLAB, Java , PHP, JavaScript/TypeScript  
 **ML / AI:** PyTorch, scikit-learn, HuggingFace, XAI (SHAP, LIME)  
 **Tools:** Docker, AWS, Git, CI/CD, Tableau/Plotly  
 
