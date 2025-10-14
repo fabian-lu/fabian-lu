@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabian Lukassen  
+🎓 M.Sc. Applied Statistics | 🧠 Machine Learning & AI | 💻 Software Engineering
 
-<!--
-**fabian-lu/fabian-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about applying statistical thinking and machine learning to solve real-world problems.  
+Currently, I’m exploring the intersection of **interpretability and generative AI** in my master’s thesis at **BASF**, and developing a **Python package for ensemble-based changepoint detection**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tech Stack
+**Languages:** Python, R, SQL, C, MATLAB, Java  
+**ML / AI:** PyTorch, scikit-learn, HuggingFace, XAI (SHAP, LIME)  
+**Tools:** Docker, AWS, Git, CI/CD, Tableau/Plotly  
+
+---
+
+### 🔗 Connect with Me
+[LinkedIn](https://linkedin.com/in/fabian-lukassen) • [Kaggle](https://kaggle.com/yourusername)
