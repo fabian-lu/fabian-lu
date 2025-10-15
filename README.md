@@ -14,4 +14,10 @@ Currently, I’m exploring the intersection of **interpretability and generative
 ---
 
 ### 🔗 Connect with Me
-[LinkedIn](https://linkedin.com/in/fabian-lukassen) • [Kaggle](https://kaggle.com/yourusername)
+[LinkedIn](https://linkedin.com/in/fabian-lukassen) • [Kaggle](https://kaggle.com/yourusername) 
+
+---
+
+### 📄 View my résumé
+[📎PDF on Google Drive](https://drive.google.com/file/d/1PrarG9tCBoKO7MG-ZK50i3RwYkYKwq-r/view?usp=sharing)
+
