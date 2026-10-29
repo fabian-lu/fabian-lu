@@ -19,7 +19,7 @@ Currently, I'm exploring the intersection of **interpretability and generative A
 ---
 
 ### 📄 View my résumé
-[📎PDF on Google Drive](https://drive.google.com/file/d/1PrarG9tCBoKO7MG-ZK50i3RwYkYKwq-r/view?usp=sharing )
+[📎PDF on Google Drive](https://drive.google.com/file/d/15x6aj-bwyaYoIOx4x7dRbEzK3YQ939BK/view?usp=sharing)
 
 ---
 
